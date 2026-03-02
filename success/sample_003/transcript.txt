@@ -1,0 +1,7 @@
+[0.00s → 6.72s] All right now can you please find the measuring tape?
+[6.72s → 9.72s] Lead me to the measuring tape please.
+[9.72s → 10.72s] Drawer 2 on.
+[10.72s → 11.72s] Okay.
+[11.72s → 15.72s] I guess that's what it is.
+[15.72s → 18.72s] Is this it?
+[18.72s → 27.04s] Drawer 2.

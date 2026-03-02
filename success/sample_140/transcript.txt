@@ -1,0 +1,5 @@
+[0.00s → 4.00s] Now could you find a PlayStation controller?
+[4.00s → 8.00s] Um, we're gonna find a PlayStation controller.
+[8.00s → 10.00s] Item is in drawer 4.
+[15.00s → 17.00s] Alright.
+[17.00s → 19.00s] And then...

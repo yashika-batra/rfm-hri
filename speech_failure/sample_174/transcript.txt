@@ -1,0 +1,6 @@
+[0.00s → 7.00s] And next, could you please find orange pencils?
+[7.00s → 9.00s] Orange pencils.
+[9.00s → 12.00s] Open the drawer.
+[16.00s → 18.00s] Ooh, orange pencil.
+[18.00s → 21.00s] Awesome.
+[21.00s → 23.00s] Great.

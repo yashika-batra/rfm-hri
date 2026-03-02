@@ -1,0 +1,13 @@
+[0.00s → 1.00s] Perfect.
+[1.00s → 2.00s] All right.
+[2.00s → 4.80s] Now next, can you find a circuit board?
+[4.80s → 6.28s] I need a circuit board.
+[6.28s → 8.28s] Circuit board.
+[8.28s → 13.28s] Open the drawer.
+[13.28s → 15.32s] No light up blinking.
+[15.32s → 16.32s] Interesting.
+[16.32s → 20.64s] Yeah, it might be malfunctioning.
+[20.64s → 27.64s] But you can feel free of the tutorial.
+[27.64s → 29.64s] Is this one?
+[29.64s → 30.64s] Yes.
+[30.64s → 31.64s] Awesome.

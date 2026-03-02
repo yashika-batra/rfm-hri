@@ -1,0 +1,13 @@
+[0.00s → 3.00s] Alright, next could you find the scissors?
+[3.00s → 6.00s] I need a pair of scissors.
+[6.00s → 8.00s] Scissors?
+[8.00s → 10.00s] Sorry, I am delayed.
+[10.00s → 12.00s] Please repeat your request.
+[12.00s → 14.00s] I need a scissors.
+[17.00s → 20.00s] Scissors?
+[20.00s → 22.00s] Yeah, I think it didn't understand.
+[22.00s → 26.00s] I need a scissors.
+[27.00s → 29.00s] No?
+[29.00s → 32.00s] I mean, maybe you could look for it.
+[32.00s → 35.00s] I think it's all one, but yes.
+[37.00s → 39.00s] Awesome.

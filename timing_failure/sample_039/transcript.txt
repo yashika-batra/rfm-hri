@@ -1,0 +1,16 @@
+[0.00s → 2.60s] So can you get the eraser from the cocks?
+[2.60s → 4.60s] So you can just say I need a razor.
+[4.60s → 6.20s] I need a razor.
+[6.20s → 6.70s] OK.
+[6.70s → 7.20s] Um.
+[16.60s → 17.20s] Sorry.
+[17.20s → 18.60s] I am delayed.
+[18.60s → 20.90s] Please repeat your request.
+[20.90s → 22.00s] I need a razor.
+[22.00s → 24.20s] I do not understand that request.
+[24.20s → 24.80s] It's OK.
+[24.80s → 25.60s] It's OK.
+[25.60s → 25.80s] It's OK.
+[25.80s → 27.20s] So that's the end of interaction.
+[27.20s → 28.40s] One.
+[28.40s → 30.00s] So please go.

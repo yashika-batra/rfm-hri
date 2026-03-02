@@ -1,0 +1,7 @@
+[0.00s → 5.00s] First item, could you please find the blue tape?
+[5.00s → 7.00s] The blue tape?
+[7.00s → 10.00s] Yes, so you can ask the cart where the blue tape is.
+[10.00s → 15.00s] Okay, high cart. Do you know where the blue tape is?
+[15.00s → 18.00s] Item is in drawer one.
+[21.00s → 24.00s] Awesome, and then you can just put it right back where you found it.
+[24.00s → 25.00s] Yes.

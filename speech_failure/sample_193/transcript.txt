@@ -1,0 +1,2 @@
+[0.00s → 7.00s] I need a medical tape.
+[7.00s → 14.00s] Open the drawer.

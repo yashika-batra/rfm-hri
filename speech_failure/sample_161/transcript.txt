@@ -1,0 +1,13 @@
+[0.00s → 3.00s] Could you please find LEDs?
+[5.00s → 9.00s] Okay, Crash Scott, can you tell me where the LED lights are?
+[9.00s → 11.00s] Open the drawer.
+[13.00s → 15.00s] Draw a rich drawer.
+[31.00s → 33.00s] Are these LED lights?
+[33.00s → 35.00s] No.
+[36.00s → 38.00s] They're like in a box.
+[38.00s → 39.00s] Oh!
+[40.00s → 43.00s] It's in a clear box and it's multi-colored LEDs.
+[43.00s → 45.00s] Like the kind you put on a circuit.
+[45.00s → 48.00s] And the release ones.
+[49.00s → 51.00s] Oh, yeah.
+[52.00s → 53.00s] Great.

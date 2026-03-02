@@ -1,0 +1,10 @@
+[0.00s → 2.00s] the correct tape. Blute tape.
+[2.00s → 4.00s] All right.
+[4.00s → 6.00s] Where's the blue tape?
+[6.00s → 10.00s] Sorry, I am delayed. Please repeat your request.
+[10.00s → 12.00s] Where is the blue tape?
+[12.00s → 16.00s] So it can only talk to you and I.
+[16.00s → 18.00s] Oh.
+[18.00s → 20.00s] But you can look for the blue tape.
+[20.00s → 22.00s] Okay. Oh, okay, I found it.
+[22.00s → 26.00s] Yes, awesome. And I need to put that right back.

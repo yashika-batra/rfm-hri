@@ -1,0 +1,12 @@
+[0.00s → 1.84s] That's it.
+[1.84s → 4.44s] Can I put those back?
+[4.44s → 5.12s] All right.
+[5.12s → 7.28s] And then last item, could you please
+[7.28s → 10.60s] find the PlayStation controller?
+[10.60s → 15.64s] Which drawer is the PlayStation controller in?
+[15.64s → 17.20s] Item is in drawer four.
+[20.72s → 21.48s] Oh, it is.
+[21.48s → 23.12s] Thank you.
+[23.12s → 23.64s] All right.
+[27.72s → 28.60s] Awesome.
+[28.60s → 31.00s] So that concludes the first part of the study.

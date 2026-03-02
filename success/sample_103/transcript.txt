@@ -1,0 +1,5 @@
+[0.00s → 4.00s] Where is the C-Source?
+[4.00s → 7.00s] Item is in drawer 5.
+[7.00s → 10.00s] Okay, perfect.
+[10.00s → 14.00s] Listen and back.
+[14.00s → 18.00s] Okay, that's perfect.

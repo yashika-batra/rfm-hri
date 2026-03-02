@@ -1,0 +1,6 @@
+[0.00s → 4.00s] Cool, next item. Could you please find the orange pencils?
+[4.00s → 7.00s] Where are the orange pencils?
+[10.00s → 14.00s] Sorry, I am delayed. Please repeat your request.
+[15.00s → 18.00s] Where are the orange pencils?
+[20.00s → 23.00s] So it can't rest in there. But you can look for them.
+[30.00s → 34.00s] Yep, that's it.

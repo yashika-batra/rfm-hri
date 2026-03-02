@@ -1,0 +1,5 @@
+[0.00s → 5.00s] All right, next item. Could you please find the SD cards?
+[5.00s → 8.00s] Where are the SD cards?
+[8.00s → 10.00s] Open the drawer.
+[22.00s → 23.00s] Cool.
+[23.00s → 29.00s] All right, so that concludes the end of the first section.

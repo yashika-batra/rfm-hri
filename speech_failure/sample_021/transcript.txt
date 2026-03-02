@@ -1,0 +1,8 @@
+[0.00s → 2.00s] retrieve the face mask.
+[2.00s → 4.00s] Can I have a face mask?
+[4.00s → 6.00s] Open the drawer.
+[6.00s → 8.00s] It's also super official.
+[8.00s → 10.00s] drawer number.
+[10.00s → 12.00s] Which drawer?
+[14.00s → 15.00s] Okay.
+[15.00s → 18.00s] And then I'm going to ask you to retrieve the...

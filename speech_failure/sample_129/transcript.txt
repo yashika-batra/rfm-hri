@@ -1,0 +1,8 @@
+[0.00s → 6.44s] All right next item could you please find the whiteboard cleaner? It's like a little blue expo bottle
+[8.48s → 10.48s] Where's the whiteboard cleaner?
+[12.40s → 14.40s] Whiteboard cleaner
+[17.44s → 19.44s] Whiteboard cleaner
+[19.96s → 22.72s] It seems like it's delayed. That's what it's doing here
+[24.92s → 29.52s] Yeah, so in that case you unfortunately just need to look through it and retrieve it. Oh, okay
+[30.00s → 32.00s] It won't speak to you again
+[40.64s → 42.64s] Awesome

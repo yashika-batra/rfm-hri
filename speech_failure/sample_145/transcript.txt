@@ -1,0 +1,8 @@
+[0.00s → 5.00s] Next one, I want you to look for the orange multimeter.
+[5.00s → 7.96s] Orange multimeter.
+[7.96s → 12.08s] I need the orange multimeter.
+[12.08s → 15.20s] Open the drawer.
+[15.20s → 16.20s] Which one?
+[25.80s → 29.28s] This is not a, what is multimeter?
+[29.28s → 31.28s] I'm going to do a five.
+[43.28s → 44.28s] Fine.

@@ -1,0 +1,11 @@
+[0.00s → 13.80s] Can you get the scissors?
+[13.80s → 15.40s] I need the scissors.
+[15.40s → 18.04s] Can you get the scissors?
+[18.04s → 21.16s] Sorry, I am delayed.
+[21.16s → 23.40s] Please repeat your request.
+[23.40s → 25.64s] Can you open the drawer?
+[25.64s → 27.12s] Can you get the scissors?
+[28.12s → 29.12s] Oh, that's it.
+[29.12s → 31.12s] Just one time.
+[31.12s → 32.12s] Okay.
+[32.12s → 36.12s] So, yeah, I'm going to donate that to the session.

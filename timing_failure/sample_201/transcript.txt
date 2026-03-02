@@ -1,0 +1,16 @@
+[0.00s → 3.92s] All right, next could you please find batteries?
+[6.18s → 7.76s] Can you please get me batteries?
+[11.60s → 12.44s] Sir.
+[12.44s → 14.20s] Sorry, I am delayed.
+[14.20s → 16.26s] Please repeat your request.
+[16.26s → 17.80s] Can you please get me batteries?
+[21.40s → 23.08s] So at this point I can't talk back to you,
+[23.08s → 24.64s] but only talk one time.
+[25.72s → 27.12s] So you can look for it yourself.
+[30.00s → 31.00s] Okay.
+[36.60s → 37.60s] Oh, sorry.
+[37.60s → 38.60s] Here we go.
+[40.80s → 42.20s] I mean, I have some girl, the same.
+[42.20s → 43.20s] Yeah.
+[43.20s → 44.20s] I'm back.
+[45.00s → 46.00s] I'm sorry.

@@ -1,0 +1,4 @@
+[0.00s → 2.00s] I need this. I need this. I need this.
+[6.00s → 10.00s] Sorry, I am delayed. Please repeat your request.
+[10.00s → 12.00s] Item is in drawer five.
+[20.00s → 22.00s] Okay, you got it.

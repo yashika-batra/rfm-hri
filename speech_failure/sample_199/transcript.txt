@@ -1,0 +1,5 @@
+[0.00s → 6.00s] Can you get the razor?
+[6.00s → 10.00s] Open the drawer.
+[10.00s → 16.00s] So there's an open drawer and that's the end of the introduction.
+[17.00s → 19.00s] Is that the end of the five trials?
+[19.00s → 24.00s] So now I'm just going to see how you felt during the...

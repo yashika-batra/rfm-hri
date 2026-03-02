@@ -1,0 +1,7 @@
+[0.00s → 12.44s] Can you get blue markers?
+[12.44s → 14.24s] Where are the blue markers?
+[14.24s → 15.74s] Open the drawer.
+[15.74s → 16.74s] But wait.
+[16.74s → 17.74s] Okay, that's a rule.
+[17.74s → 24.06s] And thank you for the domed decision.
+[24.06s → 26.06s] So, let's go.

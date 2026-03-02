@@ -1,0 +1,6 @@
+[0.00s → 2.00s] Where are the razors?
+[4.00s → 6.00s] Open the drawer.
+[7.00s → 9.00s] Which drawer?
+[10.00s → 12.00s] Which drawer?
+[13.00s → 15.00s] Okay, perfect.
+[15.00s → 20.00s] Okay, now I'm going to give you a form to complete.

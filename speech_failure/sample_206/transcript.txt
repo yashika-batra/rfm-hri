@@ -1,0 +1,10 @@
+[0.00s → 7.20s] Awesome. Next item. Could you please find a circuit board? Where is the circuit board?
+[9.20s → 11.20s] Open the drawer.
+[14.40s → 16.40s] You can just look for it.
+[30.80s → 32.80s] It is in there.
+[32.80s → 35.60s] Maybe I might have shifted to the back.
+[35.60s → 36.80s] The back?
+[36.80s → 38.80s] Probably some.
+[41.20s → 43.20s] Could I example why this is important?
+[43.20s → 45.20s] I see it.
+[45.20s → 47.20s] Yes.

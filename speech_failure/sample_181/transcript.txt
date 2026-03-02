@@ -1,0 +1,6 @@
+[0.00s → 14.44s] So can you get the orange pencils?
+[14.44s → 17.80s] Can you get the orange pencils?
+[17.80s → 20.40s] Open the drawer.
+[20.40s → 22.40s] Which drawer?
+[22.40s → 29.56s] Oh, that's the other one.
+[29.56s → 30.56s] OK.

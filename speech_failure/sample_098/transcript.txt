@@ -1,0 +1,9 @@
+[0.00s → 7.80s] Can you get the battery?
+[7.80s → 11.52s] Robot, may I have the batteries?
+[11.52s → 14.48s] Open the drawer.
+[14.48s → 15.48s] Which one?
+[15.48s → 16.48s] That end of that.
+[16.48s → 17.48s] That, I'll look.
+[17.48s → 18.48s] So, thank you very much.
+[18.48s → 19.48s] Of course.
+[19.48s → 25.48s] Now, in this second part, you would watch.

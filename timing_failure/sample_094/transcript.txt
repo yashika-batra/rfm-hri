@@ -1,0 +1,6 @@
+[0.00s → 6.84s] So, can you give the orange pencils this trial one?
+[6.84s → 12.08s] Robert, can you give me the orange pencil?
+[12.08s → 23.58s] Sorry, I am delayed.
+[23.58s → 25.58s] Please repeat your request.
+[25.58s → 28.58s] The end of the first trial.
+[28.58s → 33.58s] So, I am going to start the trial too.

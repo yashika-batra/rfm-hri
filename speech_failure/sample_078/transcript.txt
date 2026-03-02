@@ -1,0 +1,23 @@
+[0.00s → 3.60s] Could you please retrieve the 500 ml IV bag?
+[5.20s → 6.80s] You can ask the cart address.
+[6.80s → 8.80s] Oh, where is the IV bag?
+[8.80s → 10.80s] 500 ml IV bag.
+[12.80s → 14.80s] Open the drawer.
+[14.80s → 16.80s] Don't store.
+[16.80s → 18.80s] What drawer?
+[18.80s → 21.80s] Do I keep only talking to you once in a while?
+[21.80s → 22.80s] Okay.
+[22.80s → 24.80s] Wait, IV bag, hold on.
+[24.80s → 25.80s] I need my look.
+[30.80s → 32.00s] I don't know what these are.
+[32.00s → 34.00s] You're honest.
+[40.80s → 43.20s] You said 100 ml IV bag, right?
+[43.20s → 44.40s] Uh, 500 ml.
+[44.40s → 45.20s] 500 ml.
+[45.20s → 47.20s] Yeah.
+[48.40s → 50.40s] This is your business money here.
+[60.40s → 62.40s] Okay.
+[64.40s → 65.60s] Yeah, that's it.
+[65.60s → 66.40s] Okay.
+[66.40s → 67.60s] And then...
+[67.60s → 69.60s] Here, here.

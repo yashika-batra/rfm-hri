@@ -1,0 +1,10 @@
+[0.00s → 6.12s] So can you get this?
+[6.12s → 7.92s] This is us.
+[7.92s → 11.60s] I want scissors.
+[11.60s → 13.32s] Item is in drawer 5.
+[13.32s → 15.32s] Oh cool.
+[15.32s → 16.32s] Yeah.
+[16.32s → 26.32s] Now try it for was the item you need.
+[27.32s → 29.32s] Ah, blue tape.
+[29.32s → 30.32s] Oh sir.
+[30.32s → 31.32s] I'll see.

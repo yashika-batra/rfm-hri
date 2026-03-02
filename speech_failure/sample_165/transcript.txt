@@ -1,0 +1,4 @@
+[0.00s → 7.72s] item. Could you please find the measuring tape? You can ask it. No, we're supposed to
+[7.72s → 13.22s] measuring tape. Open the drawer. Okay, so which, which
+[13.22s → 24.14s] drawer? Which drawer? It can't respond to you again. Oh, the tape? Measureing tape.
+[24.14s → 29.86s] Measureing tape? Yeah, that's it. And then you can put that right back.

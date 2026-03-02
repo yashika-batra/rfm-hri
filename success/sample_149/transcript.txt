@@ -1,0 +1,4 @@
+[0.00s → 7.00s] All right, next item. Could you find a pair of scissors?
+[7.00s → 12.00s] Okay, scissors. Where are the scissors?
+[12.00s → 15.00s] Item is in drawer 5.
+[15.00s → 18.00s] Okay.

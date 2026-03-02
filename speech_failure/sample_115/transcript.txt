@@ -1,0 +1,6 @@
+[0.00s → 2.80s] All right, next item.
+[2.80s → 7.44s] Could you please find the scissors?
+[7.44s → 11.14s] Can you please help me find the scissors?
+[11.14s → 12.14s] Open the drawer.
+[23.98s → 24.82s] Perfect.
+[24.82s → 26.22s] And then, yeah, you can put those back.

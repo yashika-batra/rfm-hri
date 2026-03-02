@@ -1,0 +1,11 @@
+[0.00s → 2.56s] Could you please retrieve the blue tape?
+[3.76s → 5.52s] Oh, where is the blue tape?
+[6.40s → 7.48s] Open the drawer.
+[10.04s → 11.24s] Oh, okay.
+[12.28s → 13.92s] Oh, there it is.
+[13.92s → 16.32s] And then you can put it right back where you found it.
+[16.32s → 17.08s] Okay.
+[17.72s → 18.36s] Awesome.
+[18.36s → 19.08s] I got it.
+[19.72s → 20.72s] Do I show the camera?
+[20.92s → 21.92s] No, you're good.

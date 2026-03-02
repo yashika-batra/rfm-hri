@@ -1,0 +1,11 @@
+{
+  "label": "success",
+  "all_trial_labels": "Success",
+  "participant_id": 21,
+  "is_participant_expert": false,
+  "trial_index": 1,
+  "video_path": "/content/drive/MyDrive/Paper 1: THRI Failures Dataset/Dataset/Raw Dataset/Videos/21.MOV",
+  "start_sec": 0.0,
+  "end_sec": 17.0,
+  "duration": 17.0
+}

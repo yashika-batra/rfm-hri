@@ -1,0 +1,5 @@
+[0.00s → 7.80s] And then one more actually I miscounted. Can you please find the hand sanitizer?
+[7.80s → 11.48s] In which drawer is the hand sanitizer?
+[11.48s → 15.48s] Item is in drawer 5.
+[15.48s → 25.48s] Yes, great. Okay, awesome. So that concludes the first part of the study. I'm going to
+[25.48s → 26.48s] stop recording now.

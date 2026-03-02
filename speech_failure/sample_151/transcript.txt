@@ -1,0 +1,6 @@
+[0.00s → 3.84s] Did you find a label maker?
+[3.84s → 5.76s] It looks like a calculator almost.
+[6.72s → 8.28s] Okay, where's the label maker?
+[9.64s → 10.80s] Open the drawer.
+[18.80s → 19.64s] That's it.
+[22.76s → 23.60s] All right.

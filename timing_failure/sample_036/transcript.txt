@@ -1,0 +1,7 @@
+[0.00s → 1.00s] Thank you.
+[1.00s → 8.72s] All right, next, could you find the PlayStation controller?
+[8.72s → 10.68s] I guess I'm supposed to ask you.
+[10.68s → 15.92s] Do you know where the PlayStation controller is?
+[15.92s → 20.64s] Sorry, I am delayed.
+[20.64s → 23.16s] Please repeat your request.
+[23.16s → 26.68s] I know where it was because I remembered it.

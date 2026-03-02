@@ -1,0 +1,4 @@
+[0.00s → 3.12s] Try a final trial. Please can you get a
+[4.80s → 8.72s] calcium chloride injection? I need a calcium chloride injection.
+[12.40s → 17.04s] Actually, that one's the end of the... Sorry, I am delayed. Okay. Please repeat your request.
+[17.68s → 23.84s] I need a calcium chloride injection request. It's okay. So thank you. That's the end of the...

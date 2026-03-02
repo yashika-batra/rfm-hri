@@ -1,0 +1,3 @@
+[0.00s → 17.60s] trial. Can you get the book? I need the book.
+[17.60s → 28.80s] Sorry, I am delayed. Please repeat your request.
+[28.80s → 36.80s] Thank you. That is all for the part.

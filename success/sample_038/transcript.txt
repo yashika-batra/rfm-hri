@@ -1,0 +1,7 @@
+[0.00s → 4.04s] All right, lastly, could you please find the scissors?
+[4.04s → 6.60s] High card, do you know where the scissors are?
+[6.60s → 9.40s] I did not understand that request.
+[9.40s → 11.08s] Do you know where the scissors are?
+[13.72s → 15.52s] Item is in drawer five.
+[21.04s → 21.88s] Hurry up.
+[21.88s → 24.08s] And then you can just put the right hand.

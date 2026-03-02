@@ -1,0 +1,4 @@
+[0.00s → 2.00s] Where is here, Dineson?
+[2.00s → 4.00s] Item is in drawer one.
+[10.00s → 12.00s] Yeah, okay, it's perfect.
+[20.00s → 23.00s] The last one is going to be the razor.

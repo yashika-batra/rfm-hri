@@ -1,0 +1,10 @@
+[0.00s → 3.84s] at the end of that, then try to fight.
+[3.84s → 4.68s] Can you get the...
+[9.08s → 10.32s] I don't want some fish.
+[10.32s → 14.64s] You get the 50% Death Shrower's injection.
+[15.96s → 18.72s] Can I get 50% Death Shrower's injection?
+[20.24s → 21.88s] Item is in drawer two.
+[28.20s → 29.20s] Okay.
+[29.20s → 31.20s] Okay. Thank you.
+[31.20s → 32.56s] So that's the end of this part.
+[32.56s → 33.56s] No, this is a comp...

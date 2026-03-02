@@ -1,0 +1,17 @@
+[0.00s → 10.56s] For the first one, I'm gonna ask you to retrieve a white wood cleaner, but just hold on.
+[12.00s → 14.56s] So yeah, whenever you're ready, just ask it.
+[15.52s → 16.48s] Do I have to say it?
+[16.48s → 17.68s] Yeah.
+[17.68s → 18.64s] White wood cleaner.
+[20.00s → 21.92s] Can you give me the white wood cleaner?
+[21.92s → 23.12s] Yeah.
+[27.28s → 29.12s] Sorry, I am delayed.
+[29.12s → 30.64s] Please repeat your request.
+[32.08s → 33.68s] Can you give me the white wood cleaner?
+[37.84s → 39.20s] You can proceed to look right.
+[40.00s → 42.72s] You can proceed to look right if you feel like it's not giving you.
+[44.24s → 45.44s] Where I just look right in the room.
+[45.44s → 48.00s] In, okay, so we're in the, yeah, we're in the drawers.
+[52.40s → 54.10s] Yeah.
+[63.28s → 65.28s] You can return...
+[70.48s → 71.76s] Okay.

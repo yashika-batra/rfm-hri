@@ -1,0 +1,8 @@
+[0.00s → 4.64s] I don't, would you please find a measuring tape?
+[4.64s → 8.00s] Can I just, do I have to ask it each time?
+[8.00s → 9.00s] Yeah.
+[9.00s → 16.92s] Um, Crash Cart, can you tell me where the measuring tape is?
+[16.92s → 18.92s] Item is in drawer too.
+[18.92s → 19.92s] Okay.
+[19.92s → 21.92s] There you go.
+[21.92s → 22.92s] So.

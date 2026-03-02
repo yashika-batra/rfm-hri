@@ -1,0 +1,4 @@
+[0.00s → 6.00s] Awesome. Could you please find a pair of scissors?
+[7.00s → 13.00s] Am I supposed to ask now? Hey, can you get me a pair of scissors please?
+[13.00s → 16.00s] Item is in drawer 5.
+[19.00s → 23.00s] Yay, I can put those right back.

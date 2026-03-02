@@ -1,0 +1,14 @@
+[0.00s → 1.80s] All right, awesome.
+[1.80s → 2.64s] Next item.
+[2.64s → 5.20s] Could you please find the measuring tape?
+[5.20s → 7.56s] Where can I find the measuring tape?
+[7.56s → 10.84s] We didn't want these.
+[10.84s → 12.84s] Sorry, I am delayed.
+[12.84s → 14.80s] Please repeat your request.
+[14.80s → 17.32s] Where can I find the measuring tape?
+[17.32s → 21.52s] So I can only respond to you one time.
+[21.52s → 24.52s] OK, so does it mean I want the wrist ball again?
+[24.52s → 25.04s] OK.
+[30.00s → 37.00s] Here we go.
+[37.00s → 43.00s] Perfect, and then you can put that right back again.
+[43.00s → 43.76s] Awesome.

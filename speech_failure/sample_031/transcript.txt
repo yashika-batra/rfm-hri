@@ -1,0 +1,16 @@
+[0.00s → 5.00s] Cool. Now can you retrieve the red pencils?
+[5.00s → 8.00s] High cart, where is the red pencil?
+[8.00s → 12.00s] Open the drawer.
+[12.00s → 17.00s] Can you be more specific about where is location?
+[17.00s → 24.00s] There are five drawers, title 123-5 from up to down.
+[24.00s → 29.00s] I think the item is in drawer 1.
+[29.00s → 32.00s] Sorry, will you ask him again?
+[32.00s → 34.00s] The blue pencils.
+[34.00s → 35.00s] The blue pencils?
+[35.00s → 39.00s] It's not in drawer 1.
+[39.00s → 44.00s] I'm just going to look through it.
+[44.00s → 53.00s] Do these count as blue pencils?
+[53.00s → 54.00s] Yes.
+[54.00s → 55.00s] Okay.
+[55.00s → 59.00s] Awesome.
+[59.00s → 60.00s] Now can I find?

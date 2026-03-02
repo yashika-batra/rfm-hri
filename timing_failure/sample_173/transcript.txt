@@ -1,0 +1,8 @@
+[0.00s → 5.44s] And next item, could you please find hand sanitizer?
+[5.44s → 7.00s] Hand sanitizer.
+[9.44s → 10.64s] More time.
+[10.64s → 12.64s] Sorry, I am delayed.
+[12.64s → 14.80s] Please repeat your request.
+[14.80s → 16.32s] Hand sanitizer.
+[19.20s → 20.56s] Oh, got it.
+[20.56s → 21.92s] Okay, awesome.

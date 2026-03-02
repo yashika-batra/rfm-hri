@@ -1,0 +1,24 @@
+[0.00s → 2.32s] the calculator.
+[2.32s → 5.48s] High card, do you know where the calculator is?
+[5.48s → 9.64s] I did not understand that request.
+[9.64s → 11.20s] Do you know where the calculator is?
+[17.24s → 17.64s] Can you hear me?
+[17.64s → 19.44s] Sorry, I am delayed.
+[19.44s → 22.88s] Please repeat your request.
+[22.88s → 28.52s] Do you know where the, sorry, I forgot
+[28.52s → 30.76s] the calculator?
+[30.76s → 34.16s] OK, do you remember where the calculator is?
+[34.16s → 38.16s] Open the drawer.
+[38.16s → 39.68s] That's not helpful, but OK.
+[52.16s → 55.40s] So do I remember there's a calculator?
+[55.40s → 58.36s] It's a label maker, but we call it
+[58.36s → 61.04s] a calculator because a lot of people confuse the two.
+[61.04s → 61.72s] This one?
+[61.72s → 62.84s] Yes.
+[62.84s → 64.92s] Yeah, I assume this just doesn't look.
+[64.92s → 65.68s] Yeah.
+[65.68s → 65.96s] OK.
+[65.96s → 66.48s] Yeah.
+[66.48s → 68.12s] Now a lot of people assumed it was a calculator,
+[68.12s → 69.24s] and so we changed that word.
+[69.24s → 70.04s] Gotcha.

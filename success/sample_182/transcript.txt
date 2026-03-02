@@ -1,0 +1,12 @@
+[0.00s → 3.40s] Then I'm going to start the tutorial.
+[3.40s → 5.00s] Um, um,
+[5.00s → 10.80s] can you get the blue markers?
+[10.80s → 13.76s] Uh, can you get the blue markers?
+[13.76s → 16.28s] Item is in drawer three.
+[16.28s → 20.60s] Okay.
+[20.60s → 23.08s] Um, they're here.
+[23.08s → 24.80s] Yeah. Okay, so that's fine.
+[24.80s → 26.60s] Okay.
+[30.00s → 32.00s] Okay.
+[32.00s → 35.00s] So.
+[44.00s → 48.00s] So, mom, where do you start, uh?

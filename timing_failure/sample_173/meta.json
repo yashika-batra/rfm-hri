@@ -1,0 +1,11 @@
+{
+  "label": "timing_failure",
+  "all_trial_labels": "Timing Failure",
+  "participant_id": 33,
+  "is_participant_expert": false,
+  "trial_index": 4,
+  "video_path": "/content/drive/MyDrive/Paper 1: THRI Failures Dataset/Dataset/Raw Dataset/Videos/33.MOV",
+  "start_sec": 98.0,
+  "end_sec": 120.0,
+  "duration": 22.0
+}

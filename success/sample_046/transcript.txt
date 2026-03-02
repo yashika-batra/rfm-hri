@@ -1,0 +1,4 @@
+[0.00s → 6.00s] So I need a calcium chloride injection.
+[6.00s → 9.00s] I need a calcium chloride injection.
+[9.00s → 11.00s] You got two?
+[17.00s → 19.00s] Okay, thank you.

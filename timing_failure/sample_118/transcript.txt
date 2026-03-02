@@ -1,0 +1,10 @@
+[0.00s → 4.34s] first item. Can you please find the book?
+[4.34s → 6.34s] Where is the book?
+[10.34s → 14.58s] Sorry, I am delayed. Please repeat your request.
+[14.58s → 16.58s] Where is the book?
+[18.92s → 21.76s] So it can only respond to you one time, but you can't listen.
+[21.76s → 23.76s] So now I can just...
+[24.46s → 26.46s] Oh now I can see everything.
+[30.00s → 37.00s] Cool, and you can just put it right back where you found it.
+[37.00s → 39.00s] Oh shit!
+[39.00s → 42.00s] Oh that's sticky.

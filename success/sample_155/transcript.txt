@@ -1,0 +1,6 @@
+[0.00s → 5.00s] next item.
+[5.00s → 8.00s] Okay, for that further recording.
+[8.00s → 12.00s] Next item, could you find the Dextrose injection?
+[12.00s → 15.00s] Hey, find Dextrose.
+[15.00s → 18.00s] Yes, that's fine.
+[18.00s → 20.00s] I know it's here.

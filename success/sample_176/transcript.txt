@@ -1,0 +1,5 @@
+[0.00s → 8.16s] All right. Next item. Could you find a PlayStation controller?
+[8.16s → 11.08s] Help me find a PlayStation controller?
+[11.08s → 13.08s] Item is in drawer 4.
+[13.08s → 21.20s] Well, let's get into the room.
+[21.20s → 25.72s] Okay. I'll still put the icon right back again.

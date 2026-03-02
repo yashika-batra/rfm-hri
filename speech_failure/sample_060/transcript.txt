@@ -1,0 +1,9 @@
+[0.00s → 6.00s] Also, next task, can you find the whiteboard cleaner?
+[6.00s → 9.00s] Where's the whiteboard cleaner?
+[9.00s → 12.00s] Open the drawer.
+[12.00s → 17.00s] Okay.
+[17.00s → 24.00s] Okay.
+[24.00s → 31.00s] I'll do the same with the other side.
+[31.00s → 35.00s] That's it.
+[35.00s → 36.00s] Oh.
+[36.00s → 38.00s] Yeah, I'm gonna put it back.

@@ -1,0 +1,5 @@
+[0.00s → 3.60s] All right, next could you find white tape?
+[5.60s → 6.80s] Give me white tape, please.
+[7.80s → 8.80s] Open the drawer.
+[12.20s → 13.60s] Guess I'll look for myself.
+[14.80s → 15.30s] Awesome.

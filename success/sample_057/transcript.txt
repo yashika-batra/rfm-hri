@@ -1,0 +1,3 @@
+[0.00s → 5.00s] All right, now can you find the blue markers?
+[5.00s → 7.00s] Robo, where's the blue markers?
+[7.00s → 10.00s] Item is in drawer 3.

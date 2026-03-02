@@ -1,0 +1,16 @@
+[0.00s → 0.88s] Cool.
+[0.88s → 4.96s] So first item, could you please find the orange pencils
+[4.96s → 8.56s] and feel free to ask the cart where those might be?
+[8.56s → 10.56s] Where would I find an orange pencil?
+[12.80s → 14.84s] Open the drawer.
+[14.84s → 16.88s] What drawer should I open?
+[16.88s → 18.92s] So the cart can only talk to you one time,
+[18.92s → 21.12s] because we're still in early stages.
+[21.12s → 24.92s] Oh, so at that point, you kind of saw the door.
+[24.92s → 26.20s] I would know.
+[26.20s → 26.72s] Oh no.
+[31.00s → 32.00s] Oh.
+[32.00s → 34.00s] I thought what it asked were orange pencils.
+[34.00s → 35.00s] Orange pencils.
+[35.00s → 37.00s] And, okay.
+[37.00s → 38.00s] Awesome.

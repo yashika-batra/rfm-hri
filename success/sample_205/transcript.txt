@@ -1,0 +1,7 @@
+[0.00s → 4.40s] All right. Could you please find SD cards?
+[4.40s → 7.00s] Where are the SD cards?
+[7.00s → 10.00s] Item is in drawer one.
+[10.00s → 12.00s] Oh.
+[15.00s → 16.00s] Can I take it?
+[16.00s → 17.00s] Yeah, take it out.
+[17.00s → 20.00s] Perfect. And then you can put that back.

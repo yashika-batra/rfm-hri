@@ -1,0 +1,5 @@
+[0.00s → 2.00s] Where is the calculator?
+[6.00s → 10.00s] Sorry, I am delayed. Please repeat your request.
+[10.00s → 12.00s] Where is the calculator?
+[13.00s → 16.00s] And okay, for this attempt we're good.
+[16.00s → 20.00s] And then last one, I'm asking you to retrieve the C source.

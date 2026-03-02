@@ -1,0 +1,10 @@
+[0.00s → 5.00s] Now can you please find the PlayStation controller?
+[5.00s → 9.00s] Okay, leave me to the PlayStation controller please.
+[9.00s → 11.00s] Open the drawer.
+[11.00s → 14.00s] Open the drawer.
+[17.00s → 20.00s] Which one? Measuring tape?
+[20.00s → 25.00s] You need to find the PlayStation controller.
+[31.00s → 32.00s] Found it.
+[32.00s → 33.00s] Great.
+[33.00s → 35.00s] Draw a forearm.
+[35.00s → 36.00s] Alright.

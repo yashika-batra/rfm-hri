@@ -1,0 +1,9 @@
+[0.00s → 2.76s] that is going to be she's source
+[2.76s → 3.70s] Sizzlers?
+[3.70s → 4.70s] Yes
+[4.70s → 6.20s] Where are the scissors?
+[10.20s → 12.20s] Sorry, I am delayed
+[12.20s → 14.20s] Please repeat your request
+[14.70s → 16.20s] Where are the scissors?
+[18.70s → 20.20s] Yeah, that's it
+[20.20s → 26.20s] And we're going to ask you to retrieve the adenosine

@@ -1,0 +1,5 @@
+[0.00s → 7.00s] I need an appy injection.
+[7.00s → 14.00s] Item is in drawer one.
+[14.00s → 15.00s] Okay.
+[16.00s → 17.00s] There you go.
+[17.00s → 18.00s] Right.

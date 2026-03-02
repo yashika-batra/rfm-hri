@@ -1,0 +1,7 @@
+[0.00s → 2.00s] 3
+[2.00s → 4.00s] Can you get the
+[4.64s → 6.64s] Wires
+[6.80s → 8.80s] Where are the wires
+[10.80s → 12.80s] Item is in drawer 3
+[17.44s → 20.56s] See the wire yeah, okay nice then
+[21.52s → 24.88s] On this row so we are starting the fourth

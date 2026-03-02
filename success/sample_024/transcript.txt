@@ -1,0 +1,5 @@
+[0.00s → 5.76s] going to be the surgical gloves. We're just surgical gloves.
+[5.76s → 9.76s] Item is in drawer 3.
+[12.64s → 15.64s] Thank you.
+[15.64s → 17.64s] All right.
+[17.64s → 25.64s] Okay, perfect. Now I'm going to ask you to complete a small forum.

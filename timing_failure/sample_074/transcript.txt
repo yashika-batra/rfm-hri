@@ -1,0 +1,13 @@
+[0.00s → 5.00s] Find Miloxon.
+[5.00s → 7.00s] Find Miloxon.
+[7.00s → 15.00s] Sorry, I am delayed.
+[15.00s → 20.00s] Please repeat your request.
+[20.00s → 22.00s] Find Miloxon.
+[22.00s → 27.00s] I think the item is in door 2.
+[53.00s → 56.00s] Morning.
+[56.00s → 59.00s] Morning.
+[59.00s → 62.00s] I heard something about it.
+[62.00s → 65.00s] Sorry.
+[65.00s → 69.00s] Tom.
+[69.00s → 74.00s] Sorry.
+[74.00s → 79.00s] Tom.

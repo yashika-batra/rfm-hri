@@ -1,0 +1,11 @@
+{
+  "label": "speech_failure",
+  "all_trial_labels": "Speech Failure",
+  "participant_id": 38,
+  "is_participant_expert": true,
+  "trial_index": 5,
+  "video_path": "/content/drive/MyDrive/Paper 1: THRI Failures Dataset/Dataset/Raw Dataset/Videos/38.MOV",
+  "start_sec": 92.0,
+  "end_sec": 115.926667,
+  "duration": 23.926666999999995
+}

@@ -1,0 +1,6 @@
+[0.00s → 3.08s] Next question, could you please retrieve the scissors?
+[4.00s → 6.00s] Where the scissors?
+[7.08s → 9.08s] Robot where the scissors?
+[9.08s → 14.20s] Sorry, I am delayed. Please repeat your request. Robot where the scissors?
+[15.00s → 19.64s] So at this point it can't respond to me. So the nitrogen is like a clue or something.
+[23.44s → 25.44s] Good thing this isn't an actual emergency.

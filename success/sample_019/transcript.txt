@@ -1,0 +1,4 @@
+[0.00s → 5.00s] face mask. Face mask? Yes.
+[5.00s → 14.00s] So, item is in drawer 4. 1, 2, 3, 4, out here. Face mask.
+[14.00s → 24.00s] So, man, okay, perfect. We're done. So, I'm going to skew to complete the form.
+[24.00s → 26.00s] Sorry.

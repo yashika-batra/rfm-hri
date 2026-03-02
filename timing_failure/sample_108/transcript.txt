@@ -1,0 +1,8 @@
+[0.00s → 5.00s] Lastly, could you please find the wires?
+[8.00s → 10.00s] There's somebody wires out.
+[10.00s → 12.00s] Which drawer would have the wires?
+[15.00s → 20.00s] Sorry, I am delayed. Please repeat your request.
+[20.00s → 24.00s] Where are the wires? No, this is repeat.
+[26.00s → 28.00s] Oh no.
+[31.00s → 35.00s] Wires. Yeah, perfect.
+[37.00s → 41.00s] Awesome, so that concludes the trials.

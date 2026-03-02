@@ -1,0 +1,4 @@
+[0.00s → 2.60s] Now let's go to the floor.
+[2.60s → 7.80s] Can you get the medical tape?
+[7.80s → 11.60s] I need medical tape.
+[11.60s → 13.60s] Open the drawer.

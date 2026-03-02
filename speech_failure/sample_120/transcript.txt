@@ -1,0 +1,9 @@
+[0.00s → 4.64s] All right, next item, could you please find SD cards?
+[6.80s → 10.00s] You have to tell, sorry, where are the SD cards?
+[11.36s → 12.32s] Open the drawer.
+[14.00s → 14.96s] Which drawer?
+[17.36s → 18.88s] Oh, I actually forgot no follow-ups.
+[25.36s → 26.64s] Here's the SD card.
+[30.96s → 32.16s] Oh, right here.
+[34.80s → 35.28s] Cool.
+[36.56s → 37.28s] Hello?

@@ -1,0 +1,10 @@
+[0.00s → 8.72s] Next could you find a PlayStation controller?
+[8.72s → 11.48s] Can you find me a PlayStation controller?
+[11.48s → 13.48s] Open the drawer.
+[13.48s → 14.48s] Brother.
+[14.48s → 22.48s] Oh no, this is not a PlayStation controller.
+[22.48s → 24.48s] That's what we're calling a PlayStation controller.
+[24.48s → 27.72s] I think it's a Xbox controller.
+[27.72s → 28.72s] Yeah.
+[28.72s → 29.72s] Sorry, Microsoft.
+[29.72s → 34.72s] I'll make a good gaming device.

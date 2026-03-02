@@ -1,0 +1,6 @@
+[0.00s → 4.32s] Next item, could you please find blue markers?
+[6.72s → 10.24s] Oh, which door stores the blue marker?
+[11.36s → 12.80s] Item is in drawer 3.
+[18.64s → 20.24s] Perfect, and you can put that right back.
+[22.08s → 24.56s] All right, next item, oh, could you close the drawer?
+[26.08s → 26.96s] All right, next.

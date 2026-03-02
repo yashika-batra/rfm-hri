@@ -1,0 +1,5 @@
+[0.00s → 3.60s] Last item, could you please find a book?
+[4.56s → 6.00s] Where can I find a book?
+[6.64s → 7.92s] Open the drawer.
+[25.36s → 26.08s] Great.
+[27.68s → 28.64s] Alright.

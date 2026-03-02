@@ -1,0 +1,2 @@
+[0.00s → 5.76s] go ahead and start the touch attempt so this is going to be the touch of trial okay
+[5.76s → 7.74s] it's all right

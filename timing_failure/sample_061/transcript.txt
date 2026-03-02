@@ -1,0 +1,13 @@
+[0.00s → 4.64s] Cool. Now can you find the SD cards?
+[4.64s → 11.08s] In which drawer is the SD card?
+[11.08s → 15.72s] Sorry, I am delayed. Please repeat your request.
+[15.72s → 26.20s] In which drawer is the SD card?
+[26.20s → 30.20s] In which drawer is the SD card?
+[30.20s → 35.20s] Yeah, I think sometimes it just like bugs out.
+[35.20s → 40.08s] But you can look by yourself if you'd like.
+[40.08s → 45.48s] In which drawer is the SD card?
+[45.48s → 53.52s] See a motherboard?
+[54.52s → 55.52s] Is that considering?
+[55.52s → 56.52s] No.
+[56.52s → 58.52s] Oh, okay.
+[58.52s → 59.52s] Awesome.

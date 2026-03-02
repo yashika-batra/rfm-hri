@@ -1,0 +1,6 @@
+[0.00s → 4.40s] For the next task, I want you to find me Beatriz.
+[8.40s → 9.90s] Find me Paris.
+[14.20s → 15.90s] Sorry, I am delayed.
+[16.20s → 17.90s] Please repeat your request.
+[19.20s → 20.50s] Find me Paris.
+[22.20s → 23.00s] That's the end.

@@ -1,0 +1,3 @@
+[0.00s → 11.40s] This is so this is strut tool. Okay, it's got head on gets a blanket. I need a blanket. Open the drawer.
+[18.00s → 20.00s] Nope.
+[20.00s → 32.00s] Okay, that's okay. Is that open the door? Yeah, yeah, that's the end of the interaction. Got it.

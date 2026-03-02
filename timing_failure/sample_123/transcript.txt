@@ -1,0 +1,5 @@
+[0.00s → 7.00s] Okay, so where's the orange pencil?
+[7.00s → 12.00s] Sorry, I am delayed. Please repeat your request.
+[12.00s → 17.00s] Okay, where's the orange pencil?
+[25.00s → 28.00s] Hi, are you there?
+[28.00s → 35.00s] Okay, then the second object is going to be the wires.

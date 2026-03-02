@@ -1,0 +1,4 @@
+[0.00s → 3.62s] Right okay, I don't could you find the red pencils please?
+[5.00s → 7.00s] Hello, where are the red pencils?
+[7.60s → 9.60s] Item is in no three
+[10.56s → 12.56s] Found it

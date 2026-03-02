@@ -1,0 +1,14 @@
+[0.00s → 4.08s] Next item, could you please find a circuit board?
+[4.08s → 8.08s] Hello, which drawer is the circuit boarded?
+[11.08s → 15.08s] Sorry, I am delayed. Please repeat your request.
+[16.08s → 20.08s] Hello, which one is the circuit boarded?
+[20.08s → 22.08s] So it actually can't talk to you.
+[22.08s → 24.08s] It's said to ask again.
+[24.08s → 26.08s] Yeah, it's programmed to do that, but it can only speak to you.
+[26.08s → 28.08s] That's just confusing, no.
+[31.00s → 33.00s] It's a very poorly designed crash card.
+[33.00s → 35.00s] It's hard to find.
+[35.00s → 36.00s] Is this the circuit board?
+[36.00s → 37.00s] Yes.
+[37.00s → 38.00s] Okay, here are the...
+[38.00s → 39.00s] Awesome.

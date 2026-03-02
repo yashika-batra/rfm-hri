@@ -1,0 +1,8 @@
+[0.00s → 4.00s] And then could you find the medical tape?
+[4.00s → 7.00s] Where is the medical tape?
+[7.00s → 12.00s] Sorry, I am delayed.
+[12.00s → 14.00s] Please repeat your request.
+[14.00s → 15.00s] Where is the medical tape?
+[15.00s → 18.00s] Item is in door 3.
+[18.00s → 20.00s] Awesome.
+[20.00s → 23.00s] Alright, so that concludes the trials.

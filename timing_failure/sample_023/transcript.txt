@@ -1,0 +1,7 @@
+[0.00s → 7.00s] Can I have a lardocaine?
+[11.00s → 15.00s] Sorry, I am delayed. Please repeat your request.
+[15.00s → 18.00s] Can I have a lardocaine?
+[18.00s → 22.00s] Okay, perfect. And the last one is going to be...
+[22.00s → 24.00s] What's the matter?
+[25.00s → 26.00s] Perfect.
+[32.00s → 33.00s] Last one is...

@@ -1,0 +1,13 @@
+[0.00s → 3.08s] Can you get a razor from the drawer?
+[3.08s → 4.60s] The razor?
+[4.60s → 6.60s] I'm getting it myself?
+[6.60s → 8.60s] So you just need any different razor?
+[8.60s → 10.12s] I need a razor.
+[10.12s → 11.12s] Yes.
+[11.12s → 14.32s] Open the drawer.
+[14.32s → 15.32s] Which drawer?
+[15.32s → 16.32s] Okay.
+[16.32s → 17.32s] That's the one.
+[17.32s → 18.32s] Let's try one.
+[18.32s → 19.32s] Okay.
+[19.32s → 20.32s] So now.

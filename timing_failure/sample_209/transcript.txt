@@ -1,0 +1,7 @@
+[0.00s → 7.00s] And then lastly, could you please find the batteries?
+[7.00s → 12.00s] Where are the batteries?
+[12.00s → 16.00s] Sorry, I am delayed. Please repeat your request.
+[16.00s → 18.00s] Can I repeat?
+[18.00s → 20.00s] I can only talk to you on the page.
+[20.00s → 22.00s] I see them.
+[22.00s → 25.00s] Awesome.

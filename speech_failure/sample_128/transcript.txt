@@ -1,0 +1,4 @@
+[0.00s → 6.00s] Could you please retrieve the measuring tape so you can ask it where that is?
+[7.00s → 10.00s] Can I just say measuring tape? Yeah measuring tape
+[14.00s → 16.00s] Could you repeat that measuring tape?
+[20.00s → 23.00s] Should I put it up? I just put it right there. Got it.

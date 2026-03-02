@@ -1,0 +1,7 @@
+[0.00s → 3.00s] Could you please find scissors?
+[3.00s → 4.00s] Hey, find scissors.
+[7.00s → 9.00s] Hey, co-cart, find scissors.
+[12.00s → 14.00s] Hey, find scissors.
+[14.00s → 16.00s] Yeah, it's not that bad to me then.
+[61.00s → 62.00s] Stereo scissors?
+[62.00s → 63.00s] Yeah.

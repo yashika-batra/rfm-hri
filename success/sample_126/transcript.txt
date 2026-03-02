@@ -1,0 +1,4 @@
+[0.00s → 4.60s] Highest blue pencil.
+[4.60s → 14.12s] Item is in drawer 3.
+[14.12s → 17.68s] And our last one is going to be...
+[17.68s → 21.12s] Where is the gloves?

@@ -1,0 +1,4 @@
+[0.00s → 8.28s] can fetch. So can you fetch the book instead from the robot? This is trial. This is trial
+[8.28s → 16.00s] three. So can you fetch your book from the robot? And robots? Can you fetch me the book?
+[16.00s → 23.00s] Item is in drawer five.
+[23.00s → 38.00s] Cool. So just for the back end. Thank you. So now let's go to file four.

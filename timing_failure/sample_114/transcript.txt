@@ -1,0 +1,8 @@
+[0.00s → 3.80s] Next item could you please find the SD cards?
+[6.28s → 8.28s] Can I still ask it?
+[8.56s → 10.84s] Can you tell me where the SD card is?
+[15.00s → 18.56s] Sorry, I am delayed. Please repeat your request.
+[20.16s → 22.92s] Can you please tell me where the SD card is?
+[30.00s → 32.00s] Yes, that's it.
+[34.00s → 36.00s] You can put it back where you found it.
+[36.00s → 38.00s] Okay.

@@ -1,0 +1,6 @@
+[0.00s → 4.00s] And then last item, could you find an epinephrine injection?
+[4.00s → 7.00s] Hey, find epinephrine.
+[7.00s → 12.00s] Hey, co-curred. Find epinephrine injection.
+[12.00s → 17.00s] Hey, co-curred. Find epinephrine injection.
+[17.00s → 20.00s] It's here.
+[20.00s → 21.00s] Awesome.

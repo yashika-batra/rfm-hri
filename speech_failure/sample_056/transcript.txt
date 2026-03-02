@@ -1,0 +1,6 @@
+[0.00s → 4.30s] All right now can you find the circuit board?
+[4.30s → 6.60s] Robo where's the circuit board?
+[6.60s → 7.60s] Open the drawer.
+[13.60s → 14.40s] This is the circuit board.
+[14.40s → 14.70s] Yeah.
+[14.70s → 15.20s] OK.

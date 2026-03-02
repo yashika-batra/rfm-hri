@@ -1,0 +1,4 @@
+[0.00s → 6.64s] All right, so first item, can you please retrieve the scissors from the door?
+[6.64s → 8.64s] Where are the scissors?
+[8.64s → 11.08s] Item is in drawer 5.
+[11.08s → 15.92s] Awesome, and then you can put those right back.

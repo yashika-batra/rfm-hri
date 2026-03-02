@@ -1,0 +1,13 @@
+[0.00s → 3.00s] Could you please find the scissors?
+[3.00s → 7.00s] Can you tell me where the scissors is?
+[7.00s → 10.00s] Do I call it?
+[10.00s → 12.00s] Sorry, I am delayed.
+[12.00s → 14.00s] Please repeat your request.
+[14.00s → 17.00s] Can you tell me where the scissors is located?
+[17.00s → 21.00s] So unfortunately, you can only talk to you one time if you look for it.
+[21.00s → 22.00s] I can look for it?
+[22.00s → 23.00s] Yeah.
+[30.00s → 31.00s] Okay.
+[31.00s → 40.00s] Alright, and I can put them right back.
+[40.00s → 41.00s] Okay, perfect.
+[41.00s → 42.00s] Okay, next.

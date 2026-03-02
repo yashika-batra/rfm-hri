@@ -1,0 +1,12 @@
+[0.00s → 3.00s] And then now could you find...
+[6.00s → 9.00s] Can you find a 500 milliliter IV bag?
+[9.00s → 12.00s] Find 500 milliliter IV bag.
+[12.00s → 14.00s] Open the drawer.
+[27.00s → 29.00s] Sorry, I am delayed.
+[29.00s → 32.00s] Please repeat your request.
+[32.00s → 35.00s] Find 500 liter IV bag.
+[35.00s → 36.00s] No, it's not.
+[36.00s → 38.00s] Milliliter IV bag.
+[39.00s → 41.00s] Open the drawer.
+[59.00s → 62.00s] Find 500.
+[62.00s → 64.00s] So, now...

@@ -1,0 +1,11 @@
+[0.00s → 2.32s] So I'm going to start the fourth task.
+[2.32s → 6.16s] So can I get the book?
+[7.44s → 8.32s] Book.
+[12.00s → 13.36s] Open the drawer.
+[14.80s → 15.96s] Which drawer?
+[16.60s → 17.60s] Oh gosh.
+[18.80s → 19.60s] Alright.
+[20.16s → 21.12s] I didn't get it.
+[21.12s → 22.64s] I just opened the real love drawer.
+[23.84s → 24.64s] Okay.
+[24.88s → 28.88s] So, um, this is the final trial.

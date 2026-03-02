@@ -1,0 +1,7 @@
+[0.00s → 5.00s] So next can you find the circuit board?
+[5.00s → 10.00s] What number drawer would I find the circuit board?
+[10.00s → 13.00s] Item is in drawer 4.
+[13.00s → 14.00s] Uh-huh.
+[14.00s → 18.00s] I don't know if I should have this on.
+[18.00s → 19.00s] Is that?
+[19.00s → 20.00s] Yep.

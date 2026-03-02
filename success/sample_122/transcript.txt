@@ -1,0 +1,7 @@
+[0.00s → 10.68s] All right, and then last item. Could you please find the measuring tape?
+[10.68s → 13.48s] Where is the measuring tape?
+[13.48s → 15.48s] Item is in drawer too.
+[15.48s → 17.48s] Oh my god, it's right.
+[17.48s → 18.48s] Yeah.
+[18.48s → 20.92s] All right.
+[20.92s → 22.96s] So that concludes the first part of the study.
