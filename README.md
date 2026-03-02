@@ -3,7 +3,7 @@
 ![Dataset Setup](figures/EnvironmentBlur.png)  
 *Data collection environment at university laboratory (left) and hospital (right). Participant faces are anonymized in compliance with IRB protocol.*
 
-![Crash Cart Setup](figures/CrashCart.png)  
+![Crash Cart Setup](figures/CrashCartLabelled.png)  
 *Robotic crash cart platforms in real-world hospital deployment (left) and controlled university campus laboratory evaluation (right).*
 
 ---
