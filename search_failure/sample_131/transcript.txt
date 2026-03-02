@@ -1,0 +1,17 @@
+[0.00s → 2.68s] Lastly, could you please find the scissors?
+[2.68s → 4.88s] The scissors, not the ones on top.
+[4.88s → 5.88s] No, not the scissors.
+[5.88s → 6.88s] OK, scissors.
+[10.32s → 14.28s] It indicates this one, but it's not in here.
+[14.28s → 15.52s] So it might be some girls.
+[15.52s → 16.04s] Oh, OK.
+[16.04s → 16.56s] Got it.
+[16.56s → 17.06s] OK.
+[17.06s → 17.66s] And you define the scissors.
+[17.66s → 18.16s] Yes.
+[18.16s → 18.66s] OK.
+[25.16s → 26.24s] Please, scissors.
+[26.24s → 26.64s] Yes.
+[26.64s → 27.16s] Perfect.
+[27.16s → 27.64s] OK.
+[27.64s → 28.64s] Let's try it.

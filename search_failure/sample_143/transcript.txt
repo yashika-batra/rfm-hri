@@ -1,0 +1,11 @@
+[0.00s → 5.68s] The next one I want you to retrieve is yellow pencils.
+[5.68s → 7.36s] So you'll ask it for that.
+[7.36s → 8.96s] Can you give me the yellow pencils?
+[12.08s → 13.52s] Just give me a minute.
+[15.04s → 17.04s] I think the item is in drawer one.
+[22.88s → 23.76s] That's incorrect.
+[25.68s → 26.88s] Do I just look for myself here?
+[30.80s → 32.00s] You got me the leather pencil.
+[33.68s → 34.40s] gaard..
+[43.20s → 43.92s] Bye!
+[44.64s → 45.28s] Bye.

@@ -1,0 +1,7 @@
+[0.00s → 6.48s] So for the second one I want you to find me a white wood cleaner.
+[6.48s → 9.24s] Ask you to find it. White wood cleaner.
+[9.24s → 14.24s] Find me a white wood cleaner.
+[14.24s → 16.72s] Find me a white wood cleaner.
+[16.72s → 21.40s] I think the item is in drawer one.
+[21.92s → 31.04s] What do you want to know?
+[31.20s → 51.12s] What do you want to know in the mountains?

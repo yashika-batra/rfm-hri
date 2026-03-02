@@ -1,0 +1,9 @@
+[0.00s → 5.00s] Alright, next could you find blue tape?
+[5.00s → 7.00s] A blue tape.
+[7.00s → 10.00s] I think the item is in drawer too.
+[10.00s → 15.00s] It's not in two.
+[15.00s → 21.00s] It's actually not in two.
+[21.00s → 24.00s] It's in one.
+[24.00s → 25.00s] Interesting.
+[25.00s → 26.00s] Alright.
+[26.00s → 28.00s] Second slot in one.

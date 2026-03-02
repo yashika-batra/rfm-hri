@@ -1,0 +1,18 @@
+[0.00s → 7.00s] So, can you get the blanket?
+[7.00s → 10.00s] You have to say I need a blanket.
+[10.00s → 12.00s] Oh, so I have to repeat it?
+[12.00s → 14.00s] Yes, yes, yes. I need a blanket.
+[14.00s → 16.00s] I need a blanket.
+[16.00s → 18.00s] The item is in drawer 4.
+[18.00s → 22.00s] So you just put that in there.
+[22.00s → 25.00s] Will it be a blanket?
+[25.00s → 26.00s] No, it's okay.
+[26.00s → 28.00s] Do you see the blanket? Nope.
+[28.00s → 29.00s] No.
+[29.00s → 31.00s] Okay. So just do it.
+[31.00s → 32.00s] Okay.
+[32.00s → 33.00s] I mean, not sorry about that.
+[33.00s → 34.00s] That's the first thing.
+[34.00s → 35.00s] That's the first thing.
+[35.00s → 38.00s] And then, can you get the scissors?
+[38.00s → 40.00s] Can you get the scissors?

@@ -1,0 +1,6 @@
+[0.00s → 3.80s] Alright, next item. Could you please find the scissors?
+[3.80s → 7.72s] Which drawer number is the scissors in?
+[7.72s → 11.24s] I think the item is in drawer one.
+[11.24s → 12.24s] No!
+[21.92s → 22.68s] Found it!
+[22.68s → 25.72s] Awesome, and we can just put that right back.

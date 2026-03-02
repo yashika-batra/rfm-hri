@@ -1,0 +1,10 @@
+[0.00s → 1.00s] please?
+[1.00s → 4.64s] Where is the face mask?
+[4.64s → 7.00s] I think the item is in drawer 1.
+[7.00s → 8.00s] No.
+[8.00s → 13.00s] Is it supposed to be in here or no?
+[13.00s → 16.00s] No, that's a thank you.
+[16.00s → 17.00s] Okay.
+[17.00s → 18.00s] Okay.
+[18.00s → 28.00s] When the robot fails, just proceed with your normal eaters, so go through it.
+[28.00s → 32.00s] So I'm going to ask you to retrieve the third one.

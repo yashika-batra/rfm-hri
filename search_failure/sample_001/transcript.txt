@@ -1,0 +1,6 @@
+[0.00s → 5.00s] Can you please retrieve the orange pencils? Feel free to ask the cart where those are.
+[7.00s → 10.00s] Directly to the orange pencils please.
+[13.00s → 16.00s] I think drawer two is in drawer one.
+[16.00s → 18.00s] Draw a tweezin drawer.
+[19.00s → 22.00s] Okay, I look at drawer two first.
+[23.00s → 24.00s] Okay, found them.

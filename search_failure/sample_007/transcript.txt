@@ -1,0 +1,11 @@
+[0.00s → 2.00s] Um.
+[6.00s → 10.00s] So, go ahead and get the scissors.
+[11.00s → 13.00s] Scissors.
+[16.00s → 19.00s] I think the item is in drawer one.
+[21.00s → 23.00s] It's not.
+[26.00s → 28.00s] It's not.
+[28.00s → 29.00s] Okay.
+[30.00s → 31.00s] Alright.
+[31.00s → 34.00s] Go ahead and start the forge.
+[35.00s → 36.00s] The forge.
+[38.00s → 39.00s] Nope.

@@ -1,0 +1,17 @@
+[0.00s → 2.00s] ...and now the fourth trial.
+[2.00s → 5.00s] ...and you get some face masks.
+[5.00s → 7.00s] A little face mask.
+[9.00s → 10.00s] Shalom.
+[10.00s → 11.00s] Shalom.
+[16.00s → 18.00s] It's wrong draw.
+[18.00s → 19.00s] So, yeah.
+[19.00s → 20.00s] Read out what it says.
+[20.00s → 21.00s] Draw five.
+[21.00s → 22.00s] Draw five.
+[24.00s → 26.00s] Will you click on it, get in.
+[26.00s → 27.00s] It's the wrong draw.
+[27.00s → 29.00s] So, what did the robot say?
+[29.00s → 30.00s] Because we need to look there.
+[30.00s → 31.00s] Wrong draw.
+[31.00s → 32.00s] Okay.
+[32.00s → 33.00s] And then, number.

@@ -1,0 +1,5 @@
+[0.00s → 4.00s] Thanks, item. Could you please find some batteries?
+[4.00s → 6.00s] Where are the batteries?
+[6.00s → 9.00s] I think the item is in drawer one.
+[11.00s → 14.00s] Okay, that's what I thought. I think it's...
+[18.00s → 19.00s] Awesome.

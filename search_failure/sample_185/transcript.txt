@@ -1,0 +1,4 @@
+[0.00s → 10.96s] Yeah, and now please can you get the raise of the medical tape from the crash cart?
+[10.96s → 18.00s] So you say I need medical tape. I need medical tape. I need to tell you. I think the item is in drawer too.
+[22.00s → 25.00s] Nope. It's not. It's not.
+[25.00s → 27.00s] All right.

@@ -1,0 +1,11 @@
+[0.00s → 2.80s] I need tubing is in drawer too.
+[8.60s → 9.80s] Set is in drawer too.
+[16.40s → 17.40s] Do you see?
+[17.40s → 18.20s] No?
+[18.20s → 19.60s] Okay, it's done.
+[23.40s → 24.20s] And then,
+[24.20s → 25.20s] so,
+[25.20s → 26.20s] just come here again.
+[26.20s → 27.20s] The
+[28.20s → 29.20s] Um,
+[29.20s → 30.20s] okay.

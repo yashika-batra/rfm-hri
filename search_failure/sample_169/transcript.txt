@@ -1,0 +1,6 @@
+[0.00s → 3.00s] Now could you please find batteries?
+[4.68s → 6.68s] Where are the batteries?
+[9.32s → 11.32s] I think the item is in drawer one
+[19.60s → 22.48s] It might have gotten around I don't know
+[31.00s → 33.00s] Awesome
+[34.00s → 35.00s] Alright

@@ -1,0 +1,13 @@
+[0.00s → 2.24s] All right, first item.
+[2.24s → 4.48s] Could you please retrieve the blue tape
+[4.48s → 6.28s] and you can ask the robot?
+[6.28s → 7.96s] Can I ask where the blue tape is?
+[7.96s → 10.12s] Yeah, so you can say robot, where's the blue tape?
+[10.12s → 12.32s] Yeah, robot, where's the blue tape?
+[12.32s → 14.44s] I think the item is in drawer two.
+[18.40s → 23.40s] Unfortunately, it is mine, in drawer two.
+[27.32s → 28.52s] It's in drawer one.
+[28.52s → 29.52s] OK.
+[29.52s → 30.36s] It's close enough.
+[30.36s → 33.76s] Feel free to put it right back for you.
+[33.76s → 34.28s] All right.

@@ -1,0 +1,7 @@
+[0.00s → 7.36s] Cool. Last one, can you please find the label maker?
+[7.36s → 11.00s] In which drawer is the label maker?
+[11.00s → 14.84s] I think the item is in drawer one.
+[14.84s → 22.84s] What's the label maker?
+[22.84s → 29.84s] It's like a calculator looking thing as a bunch of buttons.
+[29.84s → 36.84s] Yes.
+[36.84s → 38.84s] That's it.

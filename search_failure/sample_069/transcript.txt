@@ -1,0 +1,39 @@
+[0.00s → 10.00s] I guess the first item could you please find the Dextrose injection and ask the cart where that is.
+[10.00s → 11.00s] Yeah.
+[11.00s → 12.00s] The actual cart where that is?
+[12.00s → 13.00s] Yeah.
+[13.00s → 15.00s] Where is the Dextrose injection?
+[15.00s → 16.00s] Okay.
+[16.00s → 19.00s] What is it called?
+[19.00s → 21.00s] Dextrose injection.
+[21.00s → 23.00s] The Dextrose injection.
+[23.00s → 27.00s] I think the item is in your one.
+[27.00s → 28.00s] Okay.
+[29.00s → 31.00s] Do I pull it out or just open it to our...
+[31.00s → 34.00s] So you just identified in the door you can just come to it.
+[34.00s → 35.00s] Hmm.
+[35.00s → 36.00s] Let's see.
+[36.00s → 38.00s] This is for you.
+[38.00s → 39.00s] Hmm.
+[50.00s → 52.00s] Got it out.
+[53.00s → 64.00s] So sometimes the cart is also not 100% right?
+[64.00s → 65.00s] Okay.
+[65.00s → 67.00s] So there is a chance that it...
+[67.00s → 69.00s] It's not in there?
+[69.00s → 70.00s] Yeah.
+[70.00s → 72.00s] Because I'm not seeing it.
+[72.00s → 76.00s] So just point anywhere and it's going to like...
+[76.00s → 77.00s] Yeah.
+[77.00s → 83.00s] So if you can't see it then you can kind of just go through the cart and try to identify where that item is.
+[83.00s → 85.00s] Do an entire cart.
+[85.00s → 86.00s] Yeah.
+[86.00s → 89.00s] Because unfortunately the robot can only speak once.
+[89.00s → 90.00s] Right.
+[90.00s → 91.00s] Okay.
+[91.00s → 96.00s] So this is part of what we're trying to test how we can get it into the cocktail.
+[100.00s → 101.00s] Morning.
+[101.00s → 102.00s] There we go.
+[102.00s → 103.00s] Awesome.
+[103.00s → 104.00s] Morning.
+[104.00s → 105.00s] How are you?
+[105.00s → 106.00s] How's it right?

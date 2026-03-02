@@ -1,0 +1,7 @@
+[0.00s → 4.20s] Where is the blue marker?
+[4.20s → 7.00s] I think the item is in drawer one.
+[7.00s → 14.56s] This is not a marker.
+[14.56s → 22.84s] Oh, it's not a marker.
+[22.84s → 24.84s] Where is the blue marker?
+[24.84s → 29.28s] Okay, it's fine for you to first attempt.
+[29.28s → 36.28s] This attempt is going to be the calculator.

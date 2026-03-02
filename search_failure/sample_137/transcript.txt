@@ -1,0 +1,8 @@
+[0.00s → 3.00s] Could you please retrieve the hand sanitizer?
+[3.00s → 6.00s] Um, where is the hand sanitizer?
+[6.00s → 9.00s] I think the item is in drawer one.
+[31.00s → 32.00s] Okay.
+[36.00s → 37.00s] Awesome.
+[37.00s → 39.00s] And then you can put it right back in.
+[39.00s → 40.00s] Okay.
+[40.00s → 42.00s] Thank you.

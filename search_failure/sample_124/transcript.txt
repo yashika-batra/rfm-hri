@@ -1,0 +1,7 @@
+[0.00s → 4.68s] Okay, hi, where's the wires?
+[4.68s → 7.00s] I think the item is in drawer one.
+[7.00s → 12.00s] Where's the wires?
+[12.00s → 13.00s] Yes.
+[13.00s → 14.00s] Good.
+[14.00s → 15.00s] Okay.
+[15.00s → 39.00s] Third object is going to be the seasource.

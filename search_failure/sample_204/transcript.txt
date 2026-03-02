@@ -1,0 +1,11 @@
+[0.00s → 3.50s] And then can you please find blue tape?
+[3.50s → 6.88s] Can you please find blue tape?
+[6.88s → 9.72s] I think the item is in drawer too.
+[9.72s → 11.72s] I don't like that it's untrue.
+[11.72s → 13.72s] Is this blue tape?
+[13.72s → 15.22s] No.
+[15.22s → 17.72s] You are incorrect.
+[17.72s → 20.72s] There we go.
+[20.72s → 21.72s] Awesome.
+[21.72s → 22.72s] All right.
+[22.72s → 25.52s] All right.

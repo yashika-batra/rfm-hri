@@ -1,0 +1,12 @@
+[0.00s → 5.00s] Alright, next could you please find the measuring tape?
+[5.00s → 7.00s] Where's the measuring tape?
+[7.00s → 10.00s] I think the item is in drawer one.
+[10.00s → 12.00s] Mm-hmm.
+[12.00s → 14.00s] Oh.
+[14.00s → 17.00s] Wait, measuring tape?
+[17.00s → 19.00s] Yeah, I don't see it.
+[19.00s → 24.00s] So you can continue to look for it.
+[24.00s → 26.00s] I see. Right here.
+[26.00s → 27.00s] Yes.
+[27.00s → 28.00s] Another drawer.
+[28.00s → 30.00s] Perfect.

@@ -1,0 +1,33 @@
+[0.00s → 2.80s] Can you get a blanket?
+[2.80s → 4.80s] Then you say I need a blanket.
+[4.80s → 6.80s] I need a blanket.
+[8.30s → 9.30s] I'll put it here.
+[9.30s → 10.30s] Fungi.
+[10.30s → 11.30s] Yes.
+[13.60s → 16.30s] I think the item is in drawer one.
+[16.30s → 18.30s] So you just open the drawer.
+[20.30s → 21.80s] Thanks a robot is wrong.
+[21.80s → 22.80s] Okay.
+[24.30s → 25.30s] Please hold on.
+[26.30s → 30.30s] You should probably keep it like that.
+[30.30s → 31.30s] Okay.
+[31.30s → 32.80s] So that is it.
+[32.80s → 34.30s] So front direction gone.
+[34.30s → 36.30s] Now we start trial two.
+[38.30s → 40.30s] Can you get the...
+[42.30s → 43.30s] Sorry.
+[43.30s → 44.30s] I am delayed.
+[44.30s → 45.30s] Please repeat your last words.
+[45.30s → 46.30s] You need one.
+[46.30s → 47.30s] Let me see what she said.
+[49.30s → 50.30s] Okay.
+[50.30s → 51.30s] That's the end of trial two.
+[51.30s → 52.30s] I think.
+[52.30s → 53.30s] Yeah.
+[53.30s → 54.30s] Then trial three.
+[54.30s → 56.30s] Can you get...
+[56.30s → 57.30s] No, no, no.
+[57.30s → 59.30s] Actually let's redo that trial two.
+[59.30s → 60.30s] Okay.
+[61.30s → 64.30s] Please can you get the razor?
+[65.30s → 67.30s] I need a razor.

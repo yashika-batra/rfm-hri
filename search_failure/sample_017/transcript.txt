@@ -1,0 +1,13 @@
+[0.00s → 5.00s] to retrieve the sodium decarbonate injection USB.
+[5.00s → 7.00s] Is it in my car?
+[7.00s → 8.00s] Yes.
+[8.00s → 13.00s] This is all plastic, but I think the item is in drawer one.
+[16.00s → 23.00s] Then we are going to rescue to retrieve the...
+[24.00s → 28.00s] Now we are going to see the oxygen.
+[28.00s → 29.00s] No oxygen?
+[29.00s → 30.00s] No oxygen.
+[30.00s → 33.00s] We would likely be here with medications.
+[33.00s → 36.00s] So, let's see it right here.
+[36.00s → 37.00s] Oh, it's open.
+[37.00s → 39.00s] Yeah, yeah, yeah, okay, perfect.
+[42.00s → 46.00s] Then I will ask you to retrieve the...

@@ -1,0 +1,11 @@
+[0.00s → 4.00s] Now could you find the blue tape?
+[6.00s → 8.00s] Okay, blue tape.
+[8.00s → 12.00s] What drawer would I find the blue tape?
+[14.00s → 16.00s] I think the item is in drawer too.
+[16.00s → 18.00s] Thank you.
+[18.00s → 22.00s] Oh no, it is not in here.
+[27.00s → 29.00s] It is not in there.
+[31.00s → 35.00s] Oh no, so I can't talk to you again, but you can look for the item.
+[35.00s → 37.00s] Oh man.
+[39.00s → 40.00s] Oh, got it.
+[40.00s → 41.00s] Okay, awesome.

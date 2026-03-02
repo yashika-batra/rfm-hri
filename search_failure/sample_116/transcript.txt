@@ -1,0 +1,10 @@
+[0.00s → 5.00s] All right, next could you please find the wires?
+[5.00s → 9.00s] Which drawer is the wires in?
+[9.00s → 12.00s] I think the item is in drawer one.
+[22.00s → 25.00s] I don't think it's in drawer one.
+[26.00s → 29.00s] What was the item?
+[29.00s → 31.00s] The wires.
+[31.00s → 32.00s] The wires.
+[32.00s → 34.00s] See?
+[34.00s → 36.00s] Still not in the drawer.
+[42.00s → 43.00s] Yeah.

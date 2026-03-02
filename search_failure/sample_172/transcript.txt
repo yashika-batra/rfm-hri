@@ -1,0 +1,10 @@
+[0.00s → 2.80s] All right, next item.
+[2.80s → 5.24s] Could you please find a circuit board?
+[5.24s → 8.84s] I need a circuit board.
+[8.84s → 12.08s] I think the item is in drawer one.
+[12.08s → 17.16s] Um, I don't know if that's a circuit board.
+[17.16s → 20.92s] This is a SD card.
+[20.92s → 24.56s] I'm going to keep looking.
+[24.56s → 30.60s] All right, Arduino is good enough.
+[30.60s → 31.60s] Awesome.
+[31.60s → 32.60s] Yeah.

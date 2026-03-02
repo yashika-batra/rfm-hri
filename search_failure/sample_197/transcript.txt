@@ -1,0 +1,7 @@
+[0.00s → 4.20s] Um, can you get the face mask?
+[4.20s → 7.00s] Can you get the face mask?
+[7.00s → 9.00s] I think the item is in drawer one.
+[13.20s → 15.20s] Um, no mask control.
+[15.20s → 17.20s] OK, OK, that's the end of that.
+[17.20s → 19.70s] Try a four.
+[19.70s → 23.00s] Can you get the medical.

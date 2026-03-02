@@ -1,0 +1,6 @@
+[0.00s → 8.00s] Can you get the white tape?
+[8.00s → 18.00s] Robot, can I have the white tape?
+[18.00s → 24.00s] I think the item is in drawer too.
+[24.00s → 26.00s] Actually it's not.
+[26.00s → 30.00s] Okay.
+[30.00s → 34.00s] Now we're going to go to the last trial.

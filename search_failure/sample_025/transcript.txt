@@ -1,0 +1,22 @@
+[0.00s → 3.56s] Can you guess the blue tape?
+[4.24s → 6.92s] No, you tell the card. I need a blue tape.
+[6.92s → 8.52s] I need a blue tape.
+[15.00s → 17.56s] I think the item is in drawer too.
+[22.56s → 23.56s] This one?
+[23.56s → 25.18s] Blue tape, last one.
+[25.52s → 28.84s] There's no blue tape here.
+[28.84s → 29.84s] Yeah.
+[29.84s → 30.84s] Yeah.
+[30.84s → 32.84s] Maybe you should try to draw it.
+[36.84s → 38.84s] So, so should I draw it?
+[38.84s → 39.84s] The one?
+[39.84s → 40.84s] Yeah.
+[40.84s → 41.84s] Okay, it's alright.
+[41.84s → 42.84s] That's interaction.
+[42.84s → 43.84s] That's right.
+[43.84s → 45.84s] And so...
+[51.84s → 55.84s] So, can you guess the YS?
+[56.84s → 60.84s] I want to get the YS.
+[63.84s → 65.84s] Open the drawer.
+[66.84s → 68.84s] But random one?
+[72.84s → 75.84s] Yeah, that's okay for the interaction.

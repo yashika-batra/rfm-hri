@@ -1,0 +1,14 @@
+[0.00s → 3.00s] Can you get the blue tape?
+[3.00s → 5.00s] Can you see it?
+[5.00s → 6.00s] I need blue tape.
+[6.00s → 9.00s] Oh, I need blue tape.
+[9.00s → 12.00s] I think the item is in drawer too.
+[12.00s → 13.00s] Okay.
+[19.00s → 21.00s] Uh, if it's not...
+[21.00s → 22.00s] It's not.
+[22.00s → 23.00s] Okay.
+[23.00s → 25.00s] So...
+[25.00s → 27.00s] It's not.
+[27.00s → 28.00s] Oh, it's not.
+[28.00s → 31.00s] I'm going to that's fast try and I'm going to start the second try.
+[31.00s → 32.00s] Oh.

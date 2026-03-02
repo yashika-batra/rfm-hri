@@ -1,0 +1,7 @@
+[0.00s → 8.08s] So, can you get the orange pencils?
+[8.08s → 12.56s] Where are the orange pencils?
+[12.56s → 16.44s] I think the item is in drawer one.
+[16.44s → 23.68s] So, it's not?
+[23.68s → 24.68s] Okay.
+[24.68s → 28.28s] Let's the end of the drawer two.
+[28.28s → 30.04s] Now, we're going to begin trial.

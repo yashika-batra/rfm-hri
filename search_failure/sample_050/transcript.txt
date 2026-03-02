@@ -1,0 +1,5 @@
+[0.00s → 3.48s] I'm trying to, I'm just going to go ahead and get it blankets.
+[3.48s → 4.32s] I need a blanket.
+[6.40s → 8.96s] I think the item is in drawer one.
+[8.96s → 10.88s] No, it's not.
+[10.88s → 15.00s] Okay, let's go to...
