@@ -1,0 +1,11 @@
+[0.00s → 7.00s] So first item, can you please retrieve the circuit board?
+[7.00s → 9.00s] So you can ask it.
+[9.00s → 12.00s] Can you tell me where the circuit board is?
+[12.00s → 16.00s] I did not understand that request.
+[16.00s → 18.00s] Okay, I can't talk to it again, right?
+[18.00s → 19.00s] No.
+[19.00s → 20.00s] Okay.
+[20.00s → 29.00s] So you can look forward, though.
+[29.00s → 30.00s] Yeah, that's it.
+[30.00s → 36.00s] And then you can just put it right back.
+[36.00s → 38.00s] Okay.

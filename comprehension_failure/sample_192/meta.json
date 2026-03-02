@@ -1,0 +1,11 @@
+{
+  "label": "comprehension_failure",
+  "all_trial_labels": "Comprehension Failure",
+  "participant_id": 37,
+  "is_participant_expert": true,
+  "trial_index": 3,
+  "video_path": "/content/drive/MyDrive/Paper 1: THRI Failures Dataset/Dataset/Raw Dataset/Videos/37.MOV",
+  "start_sec": 105.0,
+  "end_sec": 130.0,
+  "duration": 25.0
+}

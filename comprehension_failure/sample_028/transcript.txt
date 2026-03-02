@@ -1,0 +1,6 @@
+[0.00s → 7.00s] I'm gonna say oh can you get the blue macas?
+[7.00s → 12.00s] What's blue macas?
+[12.00s → 16.00s] I did not understand that request.
+[16.00s → 20.00s] So I want blue macas?
+[20.00s → 27.00s] That's okay but I'm okay.
+[27.00s → 32.00s] So this will be the...

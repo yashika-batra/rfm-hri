@@ -1,0 +1,6 @@
+[0.00s → 5.00s] Next item, could you please find a pair of pliers?
+[5.00s → 7.00s] Could I get a pair of pliers, please?
+[7.00s → 10.00s] I did not understand that request.
+[10.00s → 12.00s] Pire? Okay, I guess like...
+[12.00s → 14.00s] Oh, not in here.
+[24.00s → 25.00s] Okay.

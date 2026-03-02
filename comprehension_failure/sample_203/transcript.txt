@@ -1,0 +1,10 @@
+[0.00s → 2.04s] All right, next.
+[2.04s → 5.20s] Could you please find hand sanitizer?
+[5.20s → 8.32s] Can you please find hand sanitizer?
+[8.32s → 10.56s] I did not understand that request.
+[13.80s → 14.32s] I'm fired.
+[19.92s → 20.44s] Why work?
+[23.44s → 24.60s] There we go.
+[24.60s → 25.40s] Awesome.
+[26.40s → 30.40s] I'm gonna start paying attention to like when I open them.
+[30.40s → 32.40s] So I just know where things are.

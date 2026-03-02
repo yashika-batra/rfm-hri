@@ -1,0 +1,8 @@
+[0.00s → 6.56s] And next, could you please find the book?
+[6.56s → 10.44s] Crash Cart, can you tell me where the book is?
+[10.44s → 13.52s] I did not understand that request.
+[13.52s → 16.92s] Good for me.
+[16.92s → 18.28s] There you go.
+[18.28s → 19.28s] OK.
+[19.28s → 21.28s] Correct.
+[21.28s → 22.28s] All right.

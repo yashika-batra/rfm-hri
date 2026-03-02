@@ -1,0 +1,17 @@
+[0.00s → 5.00s] Finally, can you get the syringe and blood sample syringe?
+[5.00s → 6.00s] So you just see what you need.
+[6.00s → 8.00s] You need a syringe.
+[8.00s → 9.00s] What is it?
+[9.00s → 10.00s] Come on, that.
+[10.00s → 12.00s] So, you have to dive on that.
+[12.00s → 13.00s] Look on my head.
+[13.00s → 15.00s] I think it's understood.
+[15.00s → 16.00s] What's it?
+[16.00s → 17.00s] Can you be safe again?
+[17.00s → 19.00s] So he said, the robot said I felt to understand.
+[19.00s → 20.00s] Can you repeat it again?
+[20.00s → 22.00s] I need a blood syringe.
+[22.00s → 23.00s] That's okay.
+[23.00s → 24.00s] That's the one.
+[24.00s → 25.00s] Good one.
+[25.00s → 26.00s] And then...

@@ -1,0 +1,10 @@
+[0.00s → 3.00s] Alright, next could you please find Leidokane?
+[3.00s → 4.30s] And again, you can ask it.
+[4.30s → 5.50s] Where's the Leidokane?
+[5.50s → 6.50s] One.
+[6.50s → 7.50s] Five.
+[9.80s → 12.00s] I did not understand that request.
+[12.00s → 13.50s] Where is the Leidokane?
+[18.00s → 20.00s] So, again, I think it only hears you once.
+[20.00s → 21.00s] It's okay.
+[22.00s → 23.00s] Leidokane's here.

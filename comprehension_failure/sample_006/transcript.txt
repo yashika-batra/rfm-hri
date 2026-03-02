@@ -1,0 +1,12 @@
+[0.00s → 14.00s] So go ahead and retrieve the red pencils from the fresh cart.
+[14.00s → 19.00s] Red pencils.
+[19.00s → 22.00s] I did not understand that request.
+[22.00s → 24.00s] Red pencils.
+[24.00s → 26.00s] That's the end of the interaction.
+[26.00s → 27.00s] Oh, go ahead.
+[27.00s → 28.00s] I'm sorry.
+[28.00s → 29.00s] It's okay.
+[29.00s → 31.00s] I can only talk to robots once.
+[31.00s → 32.00s] So I'll never respond.
+[32.00s → 33.00s] Okay.
+[33.00s → 35.00s] Now the third interaction.

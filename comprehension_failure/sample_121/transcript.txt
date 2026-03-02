@@ -1,0 +1,9 @@
+[0.00s → 7.00s] All right, next item. Could you please find an orange multimeter?
+[7.00s → 12.00s] Oh, wish joyer is the orange multimeter in.
+[12.00s → 15.00s] I did not understand that request.
+[15.00s → 18.00s] Okay, nice.
+[19.00s → 22.00s] Yes.
+[30.00s → 32.00s] All right.
+[32.00s → 34.00s] Oh, a cell. Should I?
+[34.00s → 36.00s] Here, I'll adjust it.
+[36.00s → 39.00s] That's really fun.

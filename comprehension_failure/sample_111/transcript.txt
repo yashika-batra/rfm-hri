@@ -1,0 +1,19 @@
+[0.00s → 5.00s] Next item, could you please find the whiteboard cleaner?
+[5.00s → 7.50s] Where's the whiteboard cleaner?
+[7.50s → 12.00s] I did not understand that request.
+[12.00s → 15.00s] Where's the whiteboard cleaner?
+[31.00s → 32.00s] It's in there.
+[32.00s → 36.00s] Wait. Wait. No, you two will get right?
+[36.00s → 37.00s] I might be blind.
+[37.00s → 40.00s] It's in one of the drawers.
+[40.00s → 43.00s] I don't see it, but I trust you so much.
+[43.00s → 44.00s] You got to keep looking.
+[44.00s → 46.00s] I got to keep looking.
+[46.00s → 48.00s] Wait.
+[48.00s → 50.00s] Where's the whiteboard cleaner?
+[52.00s → 56.00s] It looks like it's a little blue bottle that says expo on it.
+[60.00s → 62.00s] I was looking for the mop thing.
+[62.00s → 64.00s] It's on me.
+[64.00s → 65.00s] Oh, good.
+[65.00s → 66.00s] Yeah, I could have been clean.
+[66.00s → 67.00s] It's my bag.

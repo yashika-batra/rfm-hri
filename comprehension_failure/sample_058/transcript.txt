@@ -1,0 +1,7 @@
+[0.00s → 5.44s] And then lastly, could you please find the batteries?
+[5.44s → 6.80s] Robot worthy batteries.
+[7.80s → 10.20s] I did not understand that request.
+[13.40s → 15.20s] Okay, it's okay, it's on the second drawer.
+[15.20s → 15.80s] Alright.
+[16.70s → 17.40s] Awesome.
+[17.40s → 20.60s] Well, that concludes kind of the first part of the study.

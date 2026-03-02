@@ -1,0 +1,12 @@
+[0.00s → 3.40s] Okay, find out one. Can you guys...
+[3.40s → 8.74s] The surgical gloves?
+[8.74s → 11.24s] I need surgical gloves.
+[11.24s → 14.64s] I did not understand that request.
+[14.64s → 16.44s] I need surgical gloves.
+[16.44s → 18.84s] That's the information.
+[18.84s → 20.32s] Okay.
+[20.32s → 21.12s] Is it?
+[21.12s → 22.12s] Yeah, I did.
+[22.12s → 23.12s] Thank you.
+[23.12s → 24.44s] No, no, no, no, no, wait, one second.
+[24.44s → 25.12s] So it's just...

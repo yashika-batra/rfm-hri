@@ -1,0 +1,20 @@
+[0.00s → 3.60s] So, um, I'm gonna go ahead and research project.
+[3.60s → 4.60s] I'm gonna go next.
+[4.60s → 5.40s] What?
+[5.40s → 6.20s] Research project.
+[6.20s → 7.20s] Thank you, yeah.
+[7.20s → 9.40s] You are actually this syringe?
+[9.40s → 10.20s] Syringe?
+[10.20s → 11.20s] Yeah.
+[11.20s → 12.20s] I need a syringe.
+[12.20s → 13.20s] Um.
+[13.20s → 14.20s] Okay.
+[14.20s → 17.20s] I need a 20 gauge syringe.
+[17.20s → 18.20s] No, syringe.
+[18.20s → 19.20s] I need a syringe.
+[19.20s → 20.20s] Just a second, I'm not.
+[20.20s → 21.70s] I did not understand that request.
+[21.70s → 23.20s] I need a 10 ml syringe.
+[23.20s → 24.20s] It's okay.
+[24.20s → 25.20s] It just stops once.
+[25.20s → 26.20s] So now.

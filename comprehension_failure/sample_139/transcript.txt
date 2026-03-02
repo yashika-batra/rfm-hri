@@ -1,0 +1,6 @@
+[0.00s → 4.00s] Next item, could you please find SD cards?
+[4.00s → 8.00s] Um, we're gonna find SD cards.
+[8.00s → 12.00s] I did not understand that request.
+[18.00s → 20.00s] Where is this stuff?
+[20.00s → 22.00s] Yeah, that's okay.
+[22.00s → 23.00s] Alright.

@@ -1,0 +1,3 @@
+[0.00s → 4.60s] Next item. Could you please find the orange multimeter?
+[7.84s → 14.04s] What drawer would the orange multimeter be in? I did not understand that request
+[25.48s → 27.48s] Yeah, that's a multimeter

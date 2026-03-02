@@ -1,0 +1,4 @@
+[0.00s → 7.00s] the blue tape. I did not understand that request.
+[7.00s → 14.00s] From blue tape.
+[14.00s → 18.00s] Okay, it's fine for the first attempt. It's good.
+[18.00s → 21.00s] Then I'm going to ask you to retrieve the...

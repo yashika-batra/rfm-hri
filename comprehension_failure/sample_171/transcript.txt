@@ -1,0 +1,13 @@
+[0.00s → 2.50s] All right, next item.
+[2.50s → 6.50s] Could you please find a book?
+[6.50s → 7.70s] Did you give me a book?
+[10.22s → 12.94s] I did not understand that request.
+[12.94s → 15.26s] I need a book.
+[15.26s → 17.26s] So I can only respond to one time.
+[17.26s → 18.42s] Wait, oh, so that was it.
+[18.42s → 19.58s] So now I have to look for it.
+[19.58s → 20.58s] I can look for it.
+[30.00s → 35.00s] There's a booklet.
+[35.00s → 36.00s] Book.
+[36.00s → 37.00s] That's it.
+[37.00s → 38.00s] Right back again.

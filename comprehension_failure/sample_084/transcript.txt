@@ -1,0 +1,14 @@
+[0.00s → 3.52s] All right, can you find the red pencils?
+[3.52s → 5.36s] I need a red pencil.
+[5.36s → 7.64s] I did not understand that request.
+[7.64s → 9.44s] I need a red pencil.
+[10.68s → 12.08s] So it only talked to you once.
+[12.08s → 14.32s] So now you can try to look for it if you wish.
+[14.32s → 15.16s] Yeah.
+[22.16s → 23.80s] I need my new pencil.
+[28.44s → 29.28s] Okay.
+[30.96s → 33.52s] I think the red pencil should also be in there.
+[33.52s → 34.52s] Not just the movements.
+[34.52s → 36.48s] No, there are like only 200 pencils.
+[37.36s → 39.20s] Oh yeah, that is a killer.
+[40.20s → 41.00s] Awesome.

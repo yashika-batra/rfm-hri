@@ -1,0 +1,6 @@
+[0.00s → 7.00s] Cool. Awesome. So first item, could you please retrieve the blue markers?
+[7.00s → 18.00s] Blue markers? Yes. Does it have a name? No. Okay, where's the blue markers? I did not understand that request.
+[18.00s → 25.00s] I need the blue markers. Where's the blue markers? So it can only talk to you once because it's in very early stages.
+[25.00s → 32.00s] So at this point you need to figure out how to move forward. So if I do it, can I open things? Yeah. Oh, okay.
+[49.00s → 52.00s] Patient is dead.
+[52.00s → 57.00s] Okay, cool. You can put it right back where you found it.

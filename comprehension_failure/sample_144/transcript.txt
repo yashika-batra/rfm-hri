@@ -1,0 +1,5 @@
+[0.00s → 5.00s] for the next one, I want you to ask for the blue markers.
+[5.40s → 7.14s] Can you give me the blue markers?
+[9.28s → 12.36s] I did not understand that request.
+[12.36s → 14.78s] Can you give me the blue markers?
+[30.00s → 35.00s] I did not understand that request.

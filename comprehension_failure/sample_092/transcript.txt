@@ -1,0 +1,5 @@
+[0.00s → 5.00s] I need the blue markers.
+[5.00s → 11.84s] I need the blue markers.
+[11.84s → 13.84s] I did not understand that request.
+[13.84s → 14.84s] That's okay.
+[14.84s → 17.84s] And then this is the final...

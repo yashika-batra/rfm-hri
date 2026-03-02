@@ -1,0 +1,7 @@
+[0.00s → 4.00s] Okay, next item. Could you please find an Xbox controller?
+[4.00s → 7.00s] Where is the Xbox controller?
+[7.00s → 10.00s] I did not understand that request.
+[10.00s → 14.00s] Where is the Xbox controller?
+[14.00s → 18.00s] Yeah, so it can only talk about the time.
+[18.00s → 21.00s] Okay. I see it.
+[21.00s → 22.00s] Awesome.

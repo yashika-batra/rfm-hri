@@ -1,0 +1,4 @@
+[0.00s → 7.00s] Alright, next item. Could you please find the whiteboard cleaner? It's like a little blue expo bottle.
+[7.00s → 11.00s] Okay, whiteboard cleaner.
+[11.00s → 14.00s] I did not understand that request.
+[24.00s → 26.00s] Yep, that's it.

@@ -1,0 +1,13 @@
+[0.00s → 9.44s] So can you give me the red pencils?
+[9.44s → 15.48s] Robots, can you give me the red pencil?
+[15.48s → 18.72s] I did not understand that request.
+[18.72s → 25.72s] So that's the end of chart two.
+[25.72s → 29.20s] Then, 5-3.
+[29.20s → 36.80s] So you can fetch the seed loss of the robot.
+[36.80s → 38.60s] I can see them here.
+[38.60s → 39.88s] All right, it's not these ones.
+[39.88s → 40.96s] Oh, it's not these ones.
+[40.96s → 41.84s] Oh, OK, OK.
+[41.84s → 43.36s] So, let me see.
+[43.36s → 45.52s] I can ask it.
+[45.52s → 46.04s] Yeah.

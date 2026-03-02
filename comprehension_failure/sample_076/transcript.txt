@@ -1,0 +1,7 @@
+[0.00s → 5.00s] Last one. Could you find the epinephrine injection?
+[5.00s → 10.00s] Find an epinephrine injection.
+[16.00s → 20.00s] I did not understand that request.
+[20.00s → 25.00s] Find an epinephrine injection.
+[25.00s → 30.00s] Find an epinephrine injection.
+[30.00s → 35.00s] Find an epinephrine injection.
+[35.00s → 40.00s] So that was the first part of the study.

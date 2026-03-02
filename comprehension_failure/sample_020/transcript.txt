@@ -1,0 +1,12 @@
+[0.00s → 3.34s] retrieve the sea source?
+[3.34s → 4.54s] Sea shores?
+[4.54s → 6.04s] Yes.
+[6.04s → 9.54s] Can I help with seashures?
+[9.54s → 12.14s] I did not understand that request.
+[12.14s → 14.54s] They don't understand.
+[14.54s → 17.58s] Can I help with seashures?
+[17.58s → 18.58s] It's fine.
+[18.58s → 20.98s] It was like this way, the interaction.
+[20.98s → 26.98s] So in case you can also act as you normally do with the person.
+[26.98s → 28.98s] Yes.
+[28.98s → 31.98s] Then I'm going to ask you to...

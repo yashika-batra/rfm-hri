@@ -1,0 +1,6 @@
+[0.00s → 4.00s] So now we're gonna start for our three.
+[4.00s → 8.00s] Can you guys, the face mask?
+[8.00s → 12.00s] I need a face mask.
+[12.00s → 15.00s] I did not understand that request.
+[15.00s → 17.00s] I need a face mask.
+[17.00s → 20.00s] That's the end of that interaction.

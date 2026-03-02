@@ -1,0 +1,4 @@
+[0.00s → 4.12s] Okay, and then the last item could you find hand sanitizer?
+[4.84s → 8.00s] Hello, which one is this hand sanitizer in?
+[8.00s → 12.92s] I did not understand that request. Oh, that's so frustrating
+[23.20s → 27.08s] Found it all right. Yeah, okay, I'm gonna put it back

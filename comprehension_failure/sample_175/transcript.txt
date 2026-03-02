@@ -1,0 +1,11 @@
+[0.00s → 6.00s] Alright, can you please retrieve blue pencils?
+[6.00s → 9.00s] Crash card, give me blue pencils.
+[9.00s → 12.00s] I did not understand that request.
+[12.00s → 15.00s] Blue pencils please?
+[15.00s → 19.00s] Crash card, blue pencils please?
+[19.00s → 21.00s] Yeah, I think I can only respond once.
+[21.00s → 22.00s] So you can look for them.
+[22.00s → 25.00s] Okay.
+[26.00s → 30.00s] Are you supposed to say hey Crash card, got them?
+[30.00s → 31.00s] I mean I don't understand.
+[31.00s → 34.00s] Okay, you can put them back to gold.

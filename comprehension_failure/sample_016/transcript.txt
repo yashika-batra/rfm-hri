@@ -1,0 +1,7 @@
+[0.00s → 3.00s] retrieve the razor?
+[3.00s → 4.00s] Razor?
+[4.00s → 5.00s] Yes.
+[5.00s → 11.44s] This is usually mad so razor would probably be around here because this is where the
+[11.44s → 12.44s] razor is.
+[12.44s → 16.44s] I do not understand that player.
+[16.44s → 17.44s] And then I'm going to...

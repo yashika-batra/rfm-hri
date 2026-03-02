@@ -1,0 +1,9 @@
+[0.00s → 2.00s] Where's the glove?
+[4.00s → 6.00s] I did not understand that request.
+[6.00s → 8.00s] Where's the gloves?
+[12.00s → 14.00s] Where's the gloves?
+[14.00s → 16.00s] Hi.
+[16.00s → 18.00s] And okay, we're done.
+[18.00s → 19.00s] Okay.
+[19.00s → 20.00s] Yeah.
+[20.00s → 21.00s] Thank you.

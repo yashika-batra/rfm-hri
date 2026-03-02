@@ -1,0 +1,5 @@
+[0.00s → 5.28s] Alright, next could you find the medical tape?
+[5.28s → 10.20s] Find medical tape.
+[10.20s → 13.66s] I did not understand that request.
+[13.66s → 18.16s] Find medical tape.
+[18.16s → 22.92s] Item is in drawer 3.

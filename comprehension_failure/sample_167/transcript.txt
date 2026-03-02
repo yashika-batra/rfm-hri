@@ -1,0 +1,4 @@
+[0.00s → 8.00s] item. Could you please find an orange multimeter? So where is the orange
+[8.00s → 17.16s] multimeter? I did not understand that request. Do I go again? No, well it can't respond to
+[17.16s → 22.12s] again. I have to look for it. Look for it.
+[22.12s → 38.80s] Orange... what? Multimeter? Yep, that's it.
