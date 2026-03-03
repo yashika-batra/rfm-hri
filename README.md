@@ -45,7 +45,14 @@ these views summarize both the dataset-level structure and the multimodal signal
 - Robot failures tend to **negatively affect user emotions** and reduce the sense of control.  
 - Common emotional responses to failures include **confusion, annoyance, and frustration**, while successful interactions are generally associated with **positive emotions such as relief and confidence**.  
 - Users show a **preference for verbal recovery strategies**, with multimodal and nonverbal strategies less frequently selected.  
-- Emotional responses evolve over repeated failures, indicating that users adapt to robot behavior over time.  
+- Emotional responses evolve over repeated failures, indicating that users adapt to robot behavior over time.
+
+### Failure Types and Labels
+Failure Type -> Robot Speech
+- Speech Failure -> “Open the drawer”
+- Timing Failure -> “Sorry, I am delayed…”
+- Search Failure -> “I think the item is in drawer ___”
+- Comprehension Failure -> “I did not understand that request.”
 
 These insights provide a foundation for designing failure detection and recovery mechanisms in embodied HRI, both in healthcare and other structured item retrieval tasks.
 
